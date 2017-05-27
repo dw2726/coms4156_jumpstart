@@ -1,3 +1,5 @@
+team name: not_decided_yet
+team member: dw2726
 
 # coms4156_jumpstart
 Jumpstart Project for Columbia University's COMS 4156
